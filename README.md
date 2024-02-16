@@ -1,6 +1,12 @@
-# hello-world
-## Table of Contents 
-About me
+## hello-world
+### *Table of Contents*
+- [About Me](#About-Me)
+- [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [FILES USED](#files-used)
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+- [VERSIONING](#versioning)
+1. About Me
 2. Description
 3. Cute Pic
 4. File

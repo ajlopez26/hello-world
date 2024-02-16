@@ -1,6 +1,6 @@
 # hello-world
 ## Table of Contents 
-1. About me
+About me
 2. Description
 3. Cute Pic
 4. File
